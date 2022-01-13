@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [InetBankingV1]">
+<suite name="Failed suite [InetBankingV1]" guice-stage="DEVELOPMENT" verbose="0">
   <listeners>
     <listener class-name="com.inetBanking.utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" verbose="0" name="BankingApp Test1(failed)">
+  <test thread-count="5" name="BankingApp Test1(failed)" verbose="0">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetBanking.testCases.TC_LoginDDT_002">
+      <class name="com.inetBanking.testCases.TC_EditCustomerTest_004">
         <methods>
+          <include name="editCCustomer"/>
           <include name="setUp"/>
-          <include name="loginDDT" invocation-numbers="1 2 3 4"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.inetBanking.testCases.TC_LoginDDT_002 -->
+      </class> <!-- com.inetBanking.testCases.TC_EditCustomerTest_004 -->
     </classes>
   </test> <!-- BankingApp Test1(failed) -->
 </suite> <!-- Failed suite [InetBankingV1] -->

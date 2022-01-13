@@ -13,6 +13,7 @@ import org.testng.annotations.Parameters;
 
 import com.inetBanking.utilities.ReadConfig;
 
+import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -96,6 +97,20 @@ public class BaseClass {
 	public String randomNumber()
 	{
 		return RandomStringUtils.randomNumeric(4);
+	}
+	
+	public boolean isAlertPresent() //a user defined method to check if alert it present or not
+	{
+		try
+		{
+			driver.switchTo().alert();
+			return true;
+		}
+		catch(NoAlertPresentException e)
+		{
+			return false;
+		}
+		
 	}
 
 }

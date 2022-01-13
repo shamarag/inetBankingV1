@@ -28,21 +28,21 @@ public class TC_AddCustomerTest_003 extends BaseClass{
 		AddCustomerPage addCust = new AddCustomerPage(driver);
 		
 		addCust.clickAddNewCust();
-		addCust.setCustName("Sam");
+		addCust.setCustName("Pam");
 		addCust.setGender("male");
 		addCust.setDOB("10", "10", "1986");
 		addCust.setAddress("Hallam");
 		addCust.setCity("Melbourne");
 		addCust.setState("VIC");
 		addCust.setMobileNo("12345677");
-		addCust.setPinNo("654321");
+		addCust.setPinNo("098765");
 		addCust.setEmail(randomString()+"@gmail.com");
 		addCust.setPwd("asdfg");
 		addCust.clickSubmit();
 		
 		Thread.sleep(3000);
 		logger.info("Validation starts...");
-		//if successfully added the page shows a message "Custmer added successfully". Need to validate for that.
+		//if successfully added the page shows a message "Customer added successfully". Need to validate for that.
 		
 		if(driver.getPageSource().contains("Customer Registered Successfully!!!"))
 		{

@@ -260,3 +260,75 @@
 2022-01-12 15:38:08,731 [main] INFO eBanking - Password is entered
 2022-01-12 15:38:29,369 [main] INFO eBanking - Validation starts...
 2022-01-12 15:38:29,410 [main] INFO eBanking - Add Customer test case passed
+2022-01-13 13:35:48,686 [main] INFO eBanking - URL is opened
+2022-01-13 13:35:50,056 [main] INFO eBanking - User name is entered
+2022-01-13 13:35:50,198 [main] INFO eBanking - Password is entered
+2022-01-13 13:35:52,146 [main] INFO eBanking - Login test case passed
+2022-01-13 13:36:00,074 [main] INFO eBanking - URL is opened
+2022-01-13 13:36:00,237 [main] INFO eBanking - User name is entered
+2022-01-13 13:36:00,463 [main] INFO eBanking - Password is entered
+2022-01-13 13:36:14,415 [main] INFO eBanking - Validation starts...
+2022-01-13 13:36:20,465 [main] INFO eBanking - URL is opened
+2022-01-13 13:36:20,698 [main] INFO eBanking - User name is entered
+2022-01-13 13:36:20,865 [main] INFO eBanking - Password is entered
+2022-01-13 15:08:26,599 [main] INFO eBanking - URL is opened
+2022-01-13 15:08:26,956 [main] INFO eBanking - User name is entered
+2022-01-13 15:08:27,151 [main] INFO eBanking - Password is entered
+2022-01-13 15:08:28,695 [main] INFO eBanking - Login test case passed
+2022-01-13 15:08:35,360 [main] INFO eBanking - URL is opened
+2022-01-13 15:08:35,487 [main] INFO eBanking - User name is entered
+2022-01-13 15:08:35,608 [main] INFO eBanking - Password is entered
+2022-01-13 15:08:49,620 [main] INFO eBanking - Validation starts...
+2022-01-13 15:08:49,864 [main] INFO eBanking - Add Customer test case passed
+2022-01-13 15:08:55,564 [main] INFO eBanking - URL is opened
+2022-01-13 15:08:55,774 [main] INFO eBanking - User name is entered
+2022-01-13 15:08:55,907 [main] INFO eBanking - Password is entered
+2022-01-13 20:27:09,581 [main] INFO eBanking - URL is opened
+2022-01-13 20:27:10,065 [main] INFO eBanking - User name is entered
+2022-01-13 20:27:10,225 [main] INFO eBanking - Password is entered
+2022-01-13 20:27:11,911 [main] INFO eBanking - Login test case passed
+2022-01-13 20:27:18,799 [main] INFO eBanking - URL is opened
+2022-01-13 20:27:19,302 [main] INFO eBanking - User name is entered
+2022-01-13 20:27:19,469 [main] INFO eBanking - Password is entered
+2022-01-13 20:27:34,183 [main] INFO eBanking - Validation starts...
+2022-01-13 20:27:34,216 [main] INFO eBanking - Add Customer test case passed
+2022-01-13 20:27:40,585 [main] INFO eBanking - URL is opened
+2022-01-13 20:27:40,884 [main] INFO eBanking - User name is entered
+2022-01-13 20:27:41,054 [main] INFO eBanking - Password is entered
+2022-01-13 20:33:11,526 [main] INFO eBanking - URL is opened
+2022-01-13 20:33:11,710 [main] INFO eBanking - User name is entered
+2022-01-13 20:33:11,940 [main] INFO eBanking - Password is entered
+2022-01-13 20:33:13,476 [main] INFO eBanking - Login test case passed
+2022-01-13 20:33:19,092 [main] INFO eBanking - URL is opened
+2022-01-13 20:33:19,197 [main] INFO eBanking - User name is entered
+2022-01-13 20:33:19,309 [main] INFO eBanking - Password is entered
+2022-01-13 20:33:34,516 [main] INFO eBanking - Validation starts...
+2022-01-13 20:33:34,562 [main] INFO eBanking - Add Customer test case passed
+2022-01-13 20:33:41,230 [main] INFO eBanking - URL is opened
+2022-01-13 20:33:41,487 [main] INFO eBanking - User name is entered
+2022-01-13 20:33:41,675 [main] INFO eBanking - Password is entered
+2022-01-13 20:40:30,363 [main] INFO eBanking - URL is opened
+2022-01-13 20:40:30,613 [main] INFO eBanking - User name is entered
+2022-01-13 20:40:30,790 [main] INFO eBanking - Password is entered
+2022-01-13 20:40:32,043 [main] INFO eBanking - Login test case passed
+2022-01-13 20:40:38,731 [main] INFO eBanking - URL is opened
+2022-01-13 20:40:38,993 [main] INFO eBanking - User name is entered
+2022-01-13 20:40:39,269 [main] INFO eBanking - Password is entered
+2022-01-13 20:40:54,859 [main] INFO eBanking - Validation starts...
+2022-01-13 20:40:54,882 [main] INFO eBanking - Add Customer test case passed
+2022-01-13 20:41:02,833 [main] INFO eBanking - URL is opened
+2022-01-13 20:41:02,967 [main] INFO eBanking - User name is entered
+2022-01-13 20:41:03,194 [main] INFO eBanking - Password is entered
+2022-01-13 20:41:16,605 [main] INFO eBanking - Customer found..
+2022-01-13 20:42:58,881 [main] INFO eBanking - URL is opened
+2022-01-13 20:42:59,078 [main] INFO eBanking - User name is entered
+2022-01-13 20:42:59,331 [main] INFO eBanking - Password is entered
+2022-01-13 20:43:01,157 [main] INFO eBanking - Login test case passed
+2022-01-13 20:43:08,064 [main] INFO eBanking - URL is opened
+2022-01-13 20:43:08,245 [main] INFO eBanking - User name is entered
+2022-01-13 20:43:08,409 [main] INFO eBanking - Password is entered
+2022-01-13 20:43:25,674 [main] INFO eBanking - Validation starts...
+2022-01-13 20:43:25,694 [main] INFO eBanking - Add Customer test case passed
+2022-01-13 20:43:32,805 [main] INFO eBanking - URL is opened
+2022-01-13 20:43:32,940 [main] INFO eBanking - User name is entered
+2022-01-13 20:43:33,097 [main] INFO eBanking - Password is entered
